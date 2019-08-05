@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "829006789905",
+    "firebase_url": "https://kanestravel-f2a5b.firebaseio.com",
+    "project_id": "kanestravel-f2a5b",
+    "storage_bucket": "kanestravel-f2a5b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:829006789905:android:01948399ec4abd7c",
+        "android_client_info": {
+          "package_name": "com.example.kanestravel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "829006789905-lnpjopldup2nmhifkmeoou6enbnthaut.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kanestravel",
+            "certificate_hash": "e8120d34dd89d23be4f0a4b42f33516a71addf63"
+          }
+        },
+        {
+          "client_id": "829006789905-f8kecjumv6d5bf06tlca93hu7s76kalb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQG5cXE4ikP6H3Z0HslSleo-y6y5t0ozo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "829006789905-f8kecjumv6d5bf06tlca93hu7s76kalb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
